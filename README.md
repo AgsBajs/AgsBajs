@@ -1,8 +1,8 @@
 # Hi there, I'm Agampreet Bajaj 👋
 
-🚀 Aspiring Data Scientist | 💡 AI & ML Enthusiast | 🛠️ Builder of Intelligent Systems
+🚀 Aspiring Data Scientist | 💡 AI & ML Enthusiast
 
-Welcome to my GitHub profile! I'm currently pursuing a B.S. in Computer Science (Data Science concentration) and a Mathematics minor at the University of North Carolina at Charlotte. I love solving real-world problems with machine learning, data analytics, and full-stack applications.
+Welcome to my GitHub profile! I'm currently pursuing a B.S. in Computer Science (with a concentration in Data Science) and a minor in Mathematics at the University of North Carolina at Charlotte. I love solving real-world problems with machine learning, data analytics, and full-stack applications.
 
 ---
 
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm currently pursuing a B.S. in Computer Science 
 - 🧠 **AI Fellow** with [Break Through Tech](https://breakthroughtech.org/), partnered with Cornell Tech  
 - 🤖 **Former Data Science Intern** at **BASF**, where I built a generative AI Copilot for Pharma market intelligence  
 - 🧑‍🏫 **Instructional Assistant** for Data Structures & Algorithms, mentoring peers on core CS concepts  
-- 💬 Always curious about NLP, generative models, and impactful tech for social good
+- 💬 Always curious about Computer Vision, generative models, and impactful tech for social good
 
 ---
 
